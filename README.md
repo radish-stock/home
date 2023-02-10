@@ -1,4 +1,6 @@
-# Basic Landing Page
+# Base Landing Page
+
+https://radish-store.github.io/home/
 
 This open source project aims to provide a basic landing page.
 
